@@ -1,0 +1,40 @@
+Category,Type
+"ASSAULT",violent
+"WARRANTS",other
+"NON-CRIMINAL",other
+"MISSING PERSON",other
+"ROBBERY",violent
+"OTHER OFFENSES",other
+"WEAPON LAWS",other
+"FRAUD",money_fraud
+"LARCENY/THEFT",theft
+"BURGLARY",theft
+"STOLEN PROPERTY",theft
+"SECONDARY CODES",other
+"SUSPICIOUS OCC",other
+"VANDALISM",theft
+"DRUG/NARCOTIC",disorderly
+"DRIVING UNDER THE INFLUENCE",other
+"DRUNKENNESS",disorderly
+"TRESPASS",other
+"VEHICLE THEFT",theft
+"SEX OFFENSES, FORCIBLE",violent
+"EMBEZZLEMENT",money_fraud
+"RECOVERED VEHICLE",
+"DISORDERLY CONDUCT",disorderly
+"ARSON",theft
+"FORGERY/COUNTERFEITING",money_fraud
+"LIQUOR LAWS",disorderly
+"KIDNAPPING",violent
+"PROSTITUTION",disorderly
+"SEX OFFENSES, NON FORCIBLE",disorderly
+"EXTORTION",violent
+"BAD CHECKS",money_fraud
+"RUNAWAY",other
+"SUICIDE",other
+"FAMILY OFFENSES",other
+"BRIBERY",money_fraud
+"LOITERING",disorderly
+"PORNOGRAPHY/OBSCENE MAT",disorderly
+"GAMBLING",disorderly
+"TREA",other
